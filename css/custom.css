@@ -91,6 +91,17 @@ font-family: 'Gudea', sans-serif;
 .headermast {
 	
 font-family: 'Gudea', sans-serif;
+    font-size: 2.4rem !important;
+	color: aliceblue;
+	font-weight: 400;
+
+	
+}
+
+
+.headermastcover {
+	
+font-family: 'Gudea', sans-serif;
     font-size: 3rem !important;
 	color: aliceblue;
 	font-weight: 400;
@@ -366,8 +377,8 @@ header.masthead {
 @media (min-width: 992px){
 header.masthead {
     height: 100vh;
-    min-height: 55rem;
-    padding-top: 72px;
+   
+    padding-top: 100px;
     padding-bottom: 0;
 }
 }
@@ -431,6 +442,21 @@ margin-left: 0.2em;
 @media (min-width: 1200px){
 .position-fixedd {
     position: fixed!important;
+
+margin-bottom: 4em;
+
+
+}
+}
+
+
+@media (max-width: 1200px){
+.position-fixedd {
+
+
+margin-bottom: 2em;
+
+
 }
 }
 
