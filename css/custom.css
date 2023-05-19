@@ -139,7 +139,7 @@ font-family: 'Roboto', sans-serif;
 
 .btn-primary {
 	
-	background-color:  #F7D878;
+	background-color:  #feebe4;
 }
 
 .btn-xl {
@@ -154,13 +154,13 @@ font-family: 'Roboto', sans-serif;
 
 hr.divider {
 	
-	border-color: #Fff;
+	border-color: #1C264F;
 }
 
 
 hr.divider-pink {
 	
-	border-color: #F7D878;
+	border-color: #feebe4;
 	    max-width: 3.25rem;
     border-width: .2rem;
 }
@@ -472,12 +472,12 @@ margin-bottom: 2em;
 	
 	padding-top: 2em;
 	padding-bottom: 1em;
-	background-color: #F7D878;
+	background-color: #feebe4;
 }
 
 
 .footer {
-	background-color: #F7D878;
+	background-color: #feebe4;
 	
 }
 
